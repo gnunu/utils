@@ -4,7 +4,7 @@ import (
 	"time"
 	"fmt"
 
-	"./format/format"
+	"github.com/gnunu/utils/format"
 )
 
 func main() {
